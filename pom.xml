@@ -54,6 +54,13 @@
       <version>30.0-jre</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.javatuples/javatuples -->
+    <dependency>
+      <groupId>org.javatuples</groupId>
+      <artifactId>javatuples</artifactId>
+      <version>1.2</version>
+    </dependency>
+
     <!-- logging -->
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
